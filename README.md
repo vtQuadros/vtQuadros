@@ -1,5 +1,5 @@
 # 💫 About Me:
-Formação técnica em Tecnologia da informação<br>Estudante do terceiro semestre Ciência da computação<br>Gosto de desafios e inovação
+Formação técnica em Tecnologia da informação;<br>Estudante do terceiro semestre Ciência da computação;<br>Gosto de desafios e inovação.
 
 
 ## 🌐 Socials:
