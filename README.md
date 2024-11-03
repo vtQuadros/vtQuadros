@@ -1,4 +1,13 @@
-<h1 align="left">Hi 👋! My name is Vitor, Wellcome!!</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=white&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
+<img align="center" alt="" src="./src/BoasVindas.gif">
+
+
+
 
 ###
 
@@ -47,17 +56,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-###
+<br>
 
-<img src="https://raw.githubusercontent.com/ViitorQuadros/ViitorQuadros/output/snake.svg" alt="Snake animation" />
-
-###
+<picture align="left"  width = "">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViitorQuadros/ViitorQuadros/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViitorQuadros/ViitorQuadros/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ViitorQuadros/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
 <h2 align="center">Social Medias 🌐</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="vitor-quadros-vafq472" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
