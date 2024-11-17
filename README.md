@@ -8,61 +8,53 @@
 
 
 
-###
-
-<img align="right" height="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDg4NjZ5aXZnNjI5MzN1NmRkOGJtaWRmN2VzYm8wNDV4ZGxoeWtobCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3dhmyq6EKw2x7eFt4X/giphy.gif"  />
-
-###
 
 
+<h3 align="left">Dev Stack💻</h3>
 
-<h3 align="center">Tech Stack💻</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-</div>
-
-###
-
-<h3 align="center">Learning</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
-
-###
-<h3 align="center">Connect with me</h3>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/vitor-quadros-vafq472/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="vitor.quadros.dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![java](https://img.shields.io/badge/JAVA-F2CA30?style=for-the-badge&logo=openjdk&logoColor=black)
 
 
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDg4NjZ5aXZnNjI5MzN1NmRkOGJtaWRmN2VzYm8wNDV4ZGxoeWtobCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3dhmyq6EKw2x7eFt4X/giphy.gif" min-width="300px" max-width="400px" width="300px" align="right" alt="Computador">
 
-###
+<h3 align="left">Networks and Security👨‍💻</h3>
+
+![VMWare](https://img.shields.io/badge/VMWARE-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![PfSense](https://img.shields.io/badge/PFSENSE-212121?style=for-the-badge&logo=vmware&logoColor=white)
+![BitDefender](https://img.shields.io/badge/BITDEFENDER-0F131E?style=for-the-badge&logo=bitdefender)
+![ProxMox](https://img.shields.io/badge/PROXMOX-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+
+
+<h3 align="left">Studying in this moment📚</h3>
+
+![docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![mikrotik](https://img.shields.io/badge/MIKROTIK-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+
+
+<h3 align="left">Databases🌐</h3>
+
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+<h3 align="left">Workstation Tools⚙️</h3>
+
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Intellij](https://img.shields.io/badge/INTELLIJ-232326?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/POSTMAN-FF6018?style=for-the-badge&logo=postman&logoColor=white)
+
+
+## Contacts:
+
+<div> 
+<a href="https://www.instagram.com/vitorafquadros/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:contato.vitor.quadros.dev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/vitor-quadros-vafq472/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+
+
 <br clear="both">
 
 <h2 align="center">Gitgub Status</h2>
