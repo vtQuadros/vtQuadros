@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=124559&center=true&vCenter=true&width=1000&height=40&lines=Hello+There%F0%9F%91%8B;Wellcome+to+my+profile+%5E%5E)](https://git.io/typing-svg)
-<img align="center" alt="" src="./src/CARDFED2.gif">
+<!--<img align="center" alt="" src="./src/CARDFED2.gif">-->
 
 
 
